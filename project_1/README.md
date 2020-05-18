@@ -1,4 +1,4 @@
-# Project 1: Data analysis and visualization with Pyrhion for 2017 and 2018 SAT and ACT Tests Results
+# Project 1: Data analysis and visualization with Python for 2017 and 2018 SAT and ACT Tests Results
 ### Overview
 
 This project covers:
